@@ -1,16 +1,14 @@
 ---
 layout: default
-title: <Your Name>
+title: Shelyn Castellanos
 ---
 
 ## About Me
 
-
-![Profile Picture]({{ "assets/images/profile-pic.jpg" | relative_url }}){: class="profile-image"}
+![Profile Picture]({{ "assets/images/profile-pic.png" | relative_url }}){: class="profile-image"}
 
  
-My name is {{ site.name }}, and I am [your pitch paragraph about your passions, knowledge and interestst.] Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut nec accumsan leo. Pellentesque ornare orci enim, vitae vestibulum nibh rutrum in. Donec pharetra risus nec ipsum fringilla, et mattis tortor auctor. Duis tortor ante, posuere ut odio a, scelerisque interdum purus. Aenean faucibus luctus est, sed bibendum tellus. Nulla et magna urna. Morbi a ipsum sollicitudin, rhoncus risus volutpat, ultricies nunc. Quisque mollis finibus ante id imperdiet. Quisque vehicula elit sit amet felis facilisis fermentum.
+My name is {{ site.name }}, and I am a mechanical engineering student at Cornell University. I enjoy hands-on engineering and learning how mechanical systems work by using analysis, modeling, and lab testing. Through coursework and student engineering roles, I’ve gained experience working in instructional labs, setting up and testing equipment, building and repairing lab apparatus, and identifying issues in mechanical systems. I’ve also worked with engines and mechanical components, where I learned how to troubleshoot problems and think through design and performance limitations. My goal is to work as an engineer in the industry, where I can apply what I’ve learned to real systems, continue developing my technical skills, and gain more hands-on experience.
 
-Aenean tincidunt aliquam arcu, in euismod dui dapibus eu. In placerat, mi et ultrices consequat, quam ligula cursus mauris, in semper neque nibh at est. Maecenas hendrerit dignissim porta. Phasellus nec fringilla dolor. Etiam efficitur nisi sit amet velit pharetra feugiat. Etiam ultrices turpis at leo semper, eleifend scelerisque neque malesuada. Aliquam molestie congue rhoncus. Donec blandit neque dolor, nec tristique mi pretium ac. Mauris tincidunt ullamcorper magna, nec pellentesque mi sagittis quis.
 
 Take a look at <a href="{{ "/projects/" | relative_url }}">my projects</a> and <a href="{{ "/cv/" | relative_url }}">CV</a>.

@@ -1,6 +1,6 @@
 ---
 layout: default
-title: <Your Name> - Portfolio
+title: Shelyn Castellanos - Portfolio
 permalink: /projects/
 ---
 

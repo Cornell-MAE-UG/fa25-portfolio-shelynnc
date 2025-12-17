@@ -1,70 +1,77 @@
 ---
 layout: default
-title: <Your Name> - Curriculum Vitae
+title: Shelyn Castellanos - CV
 permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my CV]({{ "/assets/Shelyn Castellanos - CV.pdf" | relative_url }}) in PDF format.
 
-
-**Email:** [netID@cornell.edu](mailto:netID@cornell.edu) | | | **Phone:** +123 456 7890
+**Email:** [scc258@cornell.edu](mailto:scc258@cornell.edu) | | | **Phone:** +201 699 7370
 
 ---
 
 #### Objective
-Aspiring engineering student with a strong foundation in.... Passionate about ... and eager to apply my knowledge in real-world applications.
+Aspiring mechanical engineering student with a strong foundation in hands-on engineering and mechanical systems. Interested in applied engineering - building, testing, troubleshooting, and improving real systems, and eager to apply my knowledge to real-world applications.
 
 ---
 
 #### Education
 - **Cornell University**  
   *Bachelor of Science in Mechanical and Aerospace Engineering*  
-  GPA: 3.8/4.0 | Graduation: Month, Year
+  Graduation: May, 2026
 
-- **[High School Name]**  
+
+- **Memorial High School**  
   *High School Diploma*  
-  Graduation: [Month, Year]
+  Graduation: June, 2021
 
 ---
 
 #### Skills
-- **Software:** Autodesk Fusion 360, SolidWorks, ANSYS  
+- **Software:** Autodesk Fusion 360, SolidWorks, AutoCAD, ANSYS  
 - **Programming:** Python, MATLAB  
-- **Tools:** 3D Printing, Laser Cutting  
+- **Tools:** Machining, 3D Printing, Laser Cutting
 
 ---
 
 #### Projects
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
-
-- **[Project Title]**:  
-  *[Short Description]*  
-  - Key Achievement 1  
-  - Key Achievement 2  
+- **Wind Turbine Blade Design & Testing**:  
+  *Designed, tested, and analyzed small scale wind turbine blades*  
+  - Developed blade geometry using airfoil theory and MATLAB based modeling 
+  - Met structural and operational design constraints (bending, torque) during wind tunnel testing while maintaining an adequate factor of safety 
+  - Identified and analyzed real-world performance losses relative to analytical predictions
 
 ---
 
 #### Work Experience
-- **[Company Name] - Intern**  
-  [Month, Year] - [Month, Year]  
-  - Responsibility 1  
-  - Responsibility 2  
+- **Cornell University MAE Instructional Labs - Research/Lab Assistant**  
+  [June, 2025] - [Present]  
+  - Support undergraduate engineering labs and build instructional demos 
+  - Set up and repair lab apparatus; test and assemble experimental equipment; prepare labs for upcoming semesters
+
+- **Cornell University Engineering Advising - Office Assistant**  
+  [January, 2025] - [Present]  
+  - Provide administrative support and assist students with inquiries 
+  - Maintain office organization and documentation
+
+- **Cornell University Engineering Learning Studio - Build Crew Member/Intern**  
+  [January, 2024] - [May, 2025]  
+  - Disassemble and analyze mechanical systems including engines and forklifts
+  - Use CAD to study complex machinery when physical teardown is limited.
 
 ---
 
 #### Achievements & Certifications
-- [Certification Name], [Issuing Organization], [Year]  
-- [Achievement Name], [Competition/Event], [Year]  
+- Circle Match Scholar, 2021
+- Governor's STEM Scholar, NJ Governor's STEM Scholars Program, 2021
+- Questbridge Scholar, QuestBridge National College Match, 2021 
 
 ---
 
 #### Extracurricular Activities
-- Member of [Club/Organization Name]  
-- Volunteer for [Event/Organization Name]  
+- Circle Match Advisor, Circle Match
+- IRS-Certified Volunteer, Volunteer Income Tax Assistance Program
 
 ---
 
