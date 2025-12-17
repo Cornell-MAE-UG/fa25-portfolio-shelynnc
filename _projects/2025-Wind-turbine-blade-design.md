@@ -5,7 +5,6 @@ description: Designed and experimentally tested a small-scale wind turbine blade
 technologies: [Autodesk Fusion, MATLAB, Wind Tunnel Testing, Experimental Data Analysis]
 image: /assets/images/wind-turbine-blade-cad.png       
 ---
-nk
 
 
 <h4><strong>Project Overview</strong></h4>
