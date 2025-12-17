@@ -13,7 +13,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : Shelyn Castellanos
 description              : Shelyn Castellanos - Projects and CV 
-baseurl                  : "" # Set this to your repo name 
+baseurl                  : "/fa25-portfolio-shelynnc"
 
 # Theme and Style
 theme: jekyll-theme-minimal
