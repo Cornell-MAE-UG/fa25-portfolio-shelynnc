@@ -16,7 +16,7 @@ I worked with a small team to design and test a small-scale wind turbine blade i
 We selected a NACA 4412 airfoil based on its strong aerodynamic performance at low Reynolds numbers, which are typical for small-scale wind turbines. Using Airfoil theory and MATLAB-based modeling, we designed the blade to operate near a target rotation rate of 1000 RPM at the wind speed corresponding to the peak of a Weibull probability distribution, representing the most likely operating condition. 
 The blade geometry was optimized by adjusting chord length and twist along the span so that each section operated near the optimal angle of attack, maximizing lift-to-drag ratio. Structural calculations were also performed to estimate bending stresses and confirm the design maintained an adequate factor of safety and did not exceed the material strength limits. 
 </p>
-![Figure 2: chord distribution across radius]({{ "/assets/images/chord-vs-radius.png" | relative_url }}){: .inline-image-r style="width: 2000px"}
+![Figure 2: chord distribution across radius]({{ "/assets/images/chord-vs-radius.png" | relative_url }})
 ![Figure 2a: pitch distribution across radius]({{ "/assets/images/pitch-vs-radius.png" | relative_url }})
 
 ---
