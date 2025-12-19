@@ -17,9 +17,9 @@ We selected a NACA 4412 airfoil based on its strong aerodynamic performance at l
 The blade geometry was optimized by adjusting chord length and twist along the span so that each section operated near the optimal angle of attack, maximizing lift-to-drag ratio. Structural calculations were also performed to estimate bending stresses and confirm the design maintained an adequate factor of safety and did not exceed the material strength limits. 
 </p>
 ![Figure 2: chord distribution across radius]({{ "/assets/images/chord-vs-radius.png" | relative_url }})
-{: .inline-image-r style="width: 4000px"}
+{: .inline-image-r style="width: 2000px"}
 ![Figure 2a: pitch distribution across radius]({{ "/assets/images/pitch-vs-radius.png" | relative_url }})
-{: .inline-image-r style="width: 4000px"}
+{: .inline-image-r style="width: 2000px"}
 
 ---
 <p>
