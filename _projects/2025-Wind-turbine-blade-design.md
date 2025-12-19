@@ -18,11 +18,9 @@ The blade geometry was optimized by adjusting chord length and twist along the s
 </p>
 
 <img src="{{ '/assets/images/chord-vs-radius.png' | relative_url }}"
-     style="width: 500px; height: auto;">
-![Figure 2: chord distribution across radius]({{ "/assets/images/chord-vs-radius.png" | relative_url }})
-![Figure 2a: pitch distribution across radius]({{ "/assets/images/pitch-vs-radius.png" | relative_url }})
-
-
+     style="width: 400px; height: auto;">
+<img src="{{ '/assets/images/pitch-vs-radius.png' | relative_url }}"
+     style="width: 400px; height: auto;">
 
 ---
 <p>
@@ -31,7 +29,8 @@ The finished blades were tested in the Big Blue wind tunnel using a magnetic par
 However, the measured power output was significantly lower than predicted due to real-world effects such as mechanical losses, aerodynamic tip losses, surface roughness from 3D printing, and early stall at low Reynolds numbers.
 </p>
 
-![Figure 3: Experimental Power vs. RPM Curves for each wind speed condiiton]({{ "/assets/images/power-vs-RPM.png" | relative_url }}){: .inline-image-l}
+<img src="{{ '/assets/images/power-vs-RPM.png' | relative_url }}"
+     style="width: 400px; height: auto;">
 
 ---
 <p>
