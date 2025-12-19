@@ -5,6 +5,7 @@ description: An ethical analysis of the Boeing 737 MAX Case, examining how engin
 image: /assets/images/boeing-737-MAX-engineering-ethics.png 
 
 ---
+
 The Boeing 737 MAX case is an example of how engineering decisions can lead to serious ethical failures when safety is not treated as the top priority. Many of the problems did not come from a single mistake, but from multiple decisions made under cost, schedule, and competition pressure. These decisions affected how the MCAS system was designed, approved, documented, and communicated.
 
 One major ethical issue was how the risks of MCAS were downplayed. MCAS was added to address changes in the aircraft’s aerodynamics, but it relied heavily on limited sensor input and could activate repeatedly without pilot command. Instead of treating MCAS as a safety-critical system, it was described as a minor software feature. By minimizing its importance, potential risks were not fully addressed early on, which increased the likelihood of failure.
