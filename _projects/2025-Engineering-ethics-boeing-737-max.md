@@ -2,6 +2,7 @@
 layout: project
 title: Ethical Analysis of the Boeing 737 MAX Case (MAE 4300)
 description: An ethical analysis of the Boeing 737 MAX Case, examining how engineering decisions, safety trade-offs, and organizational pressures contributed to critical failures.
+image: /assets/images/boeing-737-MAX-engineering-ethics.png 
 
 ---
 The Boeing 737 MAX case is an example of how engineering decisions can lead to serious ethical failures when safety is not treated as the top priority. Many of the problems did not come from a single mistake, but from multiple decisions made under cost, schedule, and competition pressure. These decisions affected how the MCAS system was designed, approved, documented, and communicated.
