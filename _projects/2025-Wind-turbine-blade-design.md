@@ -21,7 +21,6 @@ The blade geometry was optimized by adjusting chord length and twist along the s
         style="width: 400px; height: auto;">
 <img src="{{ '/assets/images/pitch-vs-radius.png' | relative_url }}"
      style="width: 400px; height: auto;">
-
 ---
 <p>
 <h4><strong>Testing and Results</strong></h4>

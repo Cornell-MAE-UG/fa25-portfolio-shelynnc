@@ -42,7 +42,7 @@ Aspiring mechanical engineering student with a strong foundation in hands-on eng
   - Met structural and operational design constraints (bending, torque) during wind tunnel testing while maintaining an adequate factor of safety 
   - Identified and analyzed real-world performance losses relative to analytical predictions
 - **Ethical Analysis of Boeing 737 MAX Case**:
-  *Short description: Analyzed ethical and safety issues of the Boeing 737 MAX*
+  *Analyzed ethical and safety issues of the Boeing 737 MAX*
   - Analyzed the Boeing 737 MAX case to identify ethical failures related to safety, accountability, and engineering decision-making
   - Applied the ASME Code of Ethics to evaluate engineering responsibilities and the impact of organizational and regulatory pressures
 
